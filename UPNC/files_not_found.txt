@@ -1,0 +1,7 @@
+/home/qcapdet/M2BI/Projet_long/Project_PUs/UPNC/PDBChains/1aym_2/1aym_2_resnum_corresp_uniprot.tsv
+/home/qcapdet/M2BI/Projet_long/Project_PUs/UPNC/PDBChains/1b35_C/1b35_C_resnum_corresp_uniprot.tsv
+/home/qcapdet/M2BI/Projet_long/Project_PUs/UPNC/PDBChains/1b7y_B/1b7y_B_resnum_corresp_uniprot.tsv
+/home/qcapdet/M2BI/Projet_long/Project_PUs/UPNC/PDBChains/1byk_A/1byk_A_resnum_corresp_uniprot.tsv
+/home/qcapdet/M2BI/Projet_long/Project_PUs/UPNC/PDBChains/1m3y_A/1m3y_A_resnum_corresp_uniprot.tsv
+/home/qcapdet/M2BI/Projet_long/Project_PUs/UPNC/PDBChains/1ti6_A/1ti6_A_resnum_corresp_uniprot.tsv
+/home/qcapdet/M2BI/Projet_long/Project_PUs/UPNC/PDBChains/2bpa_2/2bpa_2_resnum_corresp_uniprot.tsv
