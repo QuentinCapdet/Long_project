@@ -1,6 +1,6 @@
-## Project-PUs ###
+# Project-PUs ###
 
-# Project folders and files:
+## Project folders and files:
 
 - UPC : folder for the study of classified PUs.
 
