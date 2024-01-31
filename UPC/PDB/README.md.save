@@ -1,0 +1,13 @@
+
+### Creation of a folder containing the pdb file of the PUs with the standardized B-factor and their extracted column
+
+## Run the "PUs_to_PDB.sh" file
+
+# Input file :
+- Pos_PU_PDB.txt : file containing positions of the PUs corresponding to the pdb (taking into account the renumbering for possible offsets). 
+- min_Pos_PU_PDB.tfile used to test on a small dataset (used only during code creation to verify that it works).
+
+# Output file :
+
+
+### Other files & folders :
